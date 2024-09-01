@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Create Module]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-01T10:42:23 IST" name="Default suite" finished-at="2024-09-01T10:42:23 IST" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2024-09-01T10:42:23 IST" name="Default test" finished-at="2024-09-01T10:42:23 IST" duration-ms="90">
+      <class name="com.actitime.testscript.CustomerModule">
+        <test-method signature="mod1()[pri:0, instance:com.actitime.testscript.CustomerModule@1ed6388a]" started-at="2024-09-01T10:42:23 IST" name="mod1" finished-at="2024-09-01T10:42:23 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Create Module]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mod1 -->
+      </class> <!-- com.actitime.testscript.CustomerModule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
